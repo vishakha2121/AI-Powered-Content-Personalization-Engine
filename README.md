@@ -45,8 +45,6 @@ The **AI-Powered Content Personalization Engine** is an intelligent content gene
 
 ## 📁 Project Structure
 
-
-
 ## 🚀 Quick Start Guide
 
 ### Prerequisites
@@ -81,7 +79,6 @@ echo "JWT_SECRET_KEY=your_jwt_secret_here" >> .env
 
 # Run the backend server
 python run.py
-
 
 # Navigate to frontend directory
 cd frontend
